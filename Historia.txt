@@ -1,0 +1,3 @@
+Hola mi nombre es Ricardo Sauceda
+Estoy aprendiendo git para poder ser un mejor desarrollador 
+Me gusta aprender cosas nuevas y nunca parar de aprender
