@@ -1,4 +1,5 @@
 Hola mi nombre es Ricardo Sauceda
 Estoy aprendiendo git para poder ser un mejor desarrollador
 Master 1.
+Master 2.
 Mañana nos enfocaremos en su vida laboral.
